@@ -1,0 +1,25 @@
+/* ==========================================================================
+   Styles for nicer cs032 site
+   ========================================================================== */
+body {
+   	margin-top: 130px;
+}
+
+#nav-header {
+	position: fixed;
+   	top: 0;
+   	left: 0;
+	height: 75px;
+}
+
+.header-element {
+   	height: 100%;
+}
+
+.header-element a {
+   	font-size: 30px;
+}
+
+.hovered {
+   	background: rgba(255,255,255,0.2);
+}
