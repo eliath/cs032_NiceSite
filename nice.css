@@ -8,6 +8,11 @@ body {
     color: #ecf0e6;
 }
 
+.announcement {
+   border: 1px solid #ecf0e6;
+   margin-bottom: 20px;
+}
+
 #nav-header {
   position: fixed;
   top: 0;
