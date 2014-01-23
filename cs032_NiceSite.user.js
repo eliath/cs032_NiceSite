@@ -2,7 +2,13 @@
 // @name 			cs032 NiceSite
 // @namespace		http://eliasmartinezcohen.com/
 // @include     	http://cs.brown.edu/courses/cs032/*
-// 
+// @include     	http://cs.brown.edu/courses/cs032/*.html
+// @include     	http://cs.brown.edu/courses/cs032/**/*
+// @include 		http://cs.brown.edu/courses/cs032/projects.html
+// @include 		http://cs.brown.edu/courses/cs032/labs.html
+// @include 		http://cs.brown.edu/courses/cs032/lectures.html
+// @include 		http://cs.brown.edu/courses/cs032/docs.html
+// @include 		http://cs.brown.edu/courses/cs032/staff.html
 // Source the new styles from github
 // @resource 	niceStyles	https://raw.github.com/eliath/cs032_NiceSite/master/nice.css
 //

@@ -50,14 +50,20 @@ a:visited {
 .page-header {
    font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
    color: #ecf0e6;
+   text-shadow: none;
 }
 
 #projects-container {
-   background-color: none;
+   background-color: #353942;
 }
 
-#projects-container {
-   background-color: none;
+#staff-div {
+   background-color: #353942;
+}
+
+.staff-box {
+   background-color: #353942;
+   border: 1px solid #ecf0e6;
 }
 
 #nav-header {
