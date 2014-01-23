@@ -8,9 +8,50 @@ body {
     color: #ecf0e6;
 }
 
+#docdiv h2 {
+   font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+}
+
+#docdiv {
+   background-color: none;
+}
+
+a {
+   color: #abe2ed;
+   text-decoration: underline;
+}
+
+a:hover {
+   color: #FFF;
+   text-decoration: underline;
+}
+
+a:active {
+   color: #e7999c;
+   text-decoration: underline;
+}
+
+a:visited {
+   color: #abe2ed;
+   text-decoration: underline;
+}
+
 .announcement {
-   border: 1px solid #ecf0e6;
+   border: 2px solid #ecf0e6;
    margin-bottom: 20px;
+}
+
+.page-header {
+   font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+   color: #ecf0e6;
+}
+
+#projects-container {
+   background-color: none;
+}
+
+#projects-container {
+   background-color: none;
 }
 
 #nav-header {
