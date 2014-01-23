@@ -39,6 +39,12 @@ a:visited {
 .announcement {
    border: 2px solid #ecf0e6;
    margin-bottom: 20px;
+   padding: 10px;
+}
+
+.announcement > h4 {
+   border-top: 2px solid #ecf0e6;
+   padding-top: 10px;
 }
 
 .page-header {
