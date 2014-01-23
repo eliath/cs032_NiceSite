@@ -33,7 +33,7 @@ body {
   font-size: 35px;
   text-align: center;
   text-transform: uppercase;
-  font-family: Consolas, monaco, monospace;
+  font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
   color: #353942;
   padding: 10px 0 0 25px;
 }
