@@ -5,6 +5,8 @@
 // 
 // Source the new styles from github
 // @resource 	niceStyles	https://raw.github.com/eliath/cs032_NiceSite/master/nice.css
+//
+// @run-at document-start
 // 
 // ==/UserScript==
 
