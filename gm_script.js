@@ -4,7 +4,7 @@
 // @include     	http://cs.brown.edu/courses/cs032/*
 // 
 // Source the new styles from github
-// @resource 	niceStyles	[url to .txt]
+// @resource 	niceStyles	https://raw.github.com/eliath/cs032_NiceSite/master/nice.css
 // 
 // ==/UserScript==
 
